@@ -54,14 +54,12 @@ and aliases load regardless of the application's environment.
 under `env` or via your `.env` file.
 
 ### Providers
-The `providers` array is where you can put the providers you want to have loaded
-in the defined environments. This should be pretty straight forward as it is the
-same as how you would register service providers in `config/app.php`.
+The `providers` array is where you can put the providers you want to have loaded in the defined environments. This should be pretty straight forward as it is the same as how you would register service providers in `config/app.php`.
 
 ### Aliases
 In the `aliases` array you may put all the aliases (facades) you want to register.
-As with the providers, this is the same as how you would register aliases in the
-default `config/app.php` configuration file.
+
+As with the providers, this is the same as how you would register aliases in the default `config/app.php` configuration file.
 
 
 ## Contributing
@@ -69,8 +67,7 @@ All contributions (in the form on pull requests, issues and feature-requests) ar
 welcome. See the [contributors page](../../graphs/contributors) for all contributors.
 
 ## License
-`sven/env-providers` is licenced under the MIT License (MIT). Please see the
-[license file](LICENSE.md) for more information.
+MIT License (MIT). Please see the [license file](LICENSE.md) for more information.
 
 [ico-version]: https://img.shields.io/packagist/v/krato1/custom-providers.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-green.svg?style=flat-square
