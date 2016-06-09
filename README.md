@@ -72,14 +72,11 @@ welcome. See the [contributors page](../../graphs/contributors) for all contribu
 `sven/env-providers` is licenced under the MIT License (MIT). Please see the
 [license file](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/sven/env-providers.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/krato1/custom-providers.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-green.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/sven/env-providers.svg?style=flat-square
-[ico-codeclimate]: https://img.shields.io/codeclimate/github/svenluijten/env-providers.svg?style=flat-square
-[ico-quality]: https://img.shields.io/scrutinizer/g/svenluijten/env-providers.svg?style=flat-square
-[ico-insight]: https://img.shields.io/sensiolabs/i/510c4368-2414-43ae-85e7-486590a4961a.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/krato1/env-providers.svg?style=flat-square
 [ico-styleci]: https://styleci.io/repos/60768133/shield
 
-[link-packagist]: https://packagist.org/packages/sven/env-providers
-[link-downloads]: https://packagist.org/packages/sven/env-providers
+[link-packagist]: https://packagist.org/packages/krato1/custom-providers
+[link-downloads]: https://packagist.org/packages/krato1/custom-providers
 [link-styleci]: https://styleci.io/repos/60768133
