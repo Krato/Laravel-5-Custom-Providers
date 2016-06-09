@@ -69,11 +69,11 @@ welcome. See the [contributors page](../../graphs/contributors) for all contribu
 ## License
 MIT License (MIT). Please see the [license file](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/krato1/custom-providers.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/infinety-es/custom-providers.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-green.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/krato1/env-providers.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/infinety-es/env-providers.svg?style=flat-square
 [ico-styleci]: https://styleci.io/repos/60768133/shield
 
-[link-packagist]: https://packagist.org/packages/krato1/custom-providers
-[link-downloads]: https://packagist.org/packages/krato1/custom-providers
+[link-packagist]: https://packagist.org/packages/infinety-es/custom-providers
+[link-downloads]: https://packagist.org/packages/infinety-es/custom-providers
 [link-styleci]: https://styleci.io/repos/60768133
